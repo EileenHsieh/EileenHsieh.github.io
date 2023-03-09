@@ -1,5 +1,5 @@
 
-DEPLOY_DIR="D:\workspace\EileenHsieh.github.io" 
+DEPLOY_DIR="/Users/eileen/Documents/workspace/EileenHsieh.github.io" 
 DEPLOY_BRANCH="source"
 COMMIT_INFO="$(git log -1 --pretty=%B) [auto deploy]"
 
